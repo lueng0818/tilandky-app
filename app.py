@@ -290,7 +290,7 @@ with col_cta2:
             f"""
             <div style="text-align: center; background-color: #f8fafc; padding: 20px; border-radius: 10px; margin-top: 20px;">
                 <p style="font-size: 1.2rem; font-weight: 600; color: {COLOR_PRIMARY};">前導諮詢 (20分鐘 邏輯診斷)</p>
-                <p style="font-size: 3rem; font-weight: 800; color: {COLOR_SECONDARY}; margin: 10px 0;">$200</p>
+                <div style="height: 10px;"></div>
                 <a href="https://line.me/R/ti/p/%40690ZLAGN" target="_blank" class="btn-cta">
                     點擊預約妳的 20 分鐘診斷
                 </a>
